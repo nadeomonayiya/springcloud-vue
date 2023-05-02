@@ -11,3 +11,9 @@ spring:
 
 
 
+swagger:
+  title: "后台管理系统"
+  description: "后台管理系统对应的系统模块"
+  base-package: com.tyy.system
+  enabled: true
+  version: 1.0.0
